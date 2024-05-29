@@ -1,4 +1,4 @@
-# go-truecoach [![Go Reference](https://pkg.go.dev/badge/github.com/tobiassjosten/go-truecoach.svg)](https://pkg.go.dev/github.com/tobiassjosten/go-truecoach)
+# go-truecoach [![Go Reference](https://pkg.go.dev/badge/github.com/tobiassjosten/go-truecoach.svg)](https://pkg.go.dev/github.com/tobiassjosten/go-truecoach) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3d28f7a6c22c4d029e2309dde5b11edf)](https://app.codacy.com/gh/tobiassjosten/go-truecoach/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 An unofficial Go library for integrating with [TrueCoach](https://truecoach.co/).
 
